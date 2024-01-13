@@ -61,7 +61,8 @@ To expose the frontendproxy service use the following command (replace
 `my-otel-demo` with your Helm chart release name accordingly):
 
 ```shell
-kubectl port-forward svc/my-otel-demo-frontendproxy 8080:8080
+kubectl port-forward svc/my-otel-demo-frontendproxy 8080:8080 # for helm, for manfiest below
+# kubectl port-forward -n otel-demo svc/opentelemetry-demo-frontendproxy 8080:8080
 ```
 
 > **Note**: `kubectl port-forward` will proxy the port until the process
