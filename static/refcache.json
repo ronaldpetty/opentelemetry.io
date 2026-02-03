@@ -1219,6 +1219,10 @@
     "StatusCode": 206,
     "LastSeen": "2026-01-14T09:48:38.138942969Z"
   },
+  "https://datatracker.ietf.org/doc/html/rfc4648#section-4": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-03T10:44:23.250608674Z"
+  },
   "https://datatracker.ietf.org/doc/html/rfc4648#section-8": {
     "StatusCode": 206,
     "LastSeen": "2026-01-14T09:48:01.423595255Z"
@@ -1290,6 +1294,14 @@
   "https://datatracker.ietf.org/doc/html/rfc8174": {
     "StatusCode": 206,
     "LastSeen": "2026-01-30T09:54:25.565351356Z"
+  },
+  "https://datatracker.ietf.org/doc/html/rfc8259#section-3": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-03T10:44:18.791856122Z"
+  },
+  "https://datatracker.ietf.org/doc/html/rfc8259#section-6": {
+    "StatusCode": 206,
+    "LastSeen": "2026-02-03T10:44:21.379688709Z"
   },
   "https://datatracker.ietf.org/doc/html/rfc8555": {
     "StatusCode": 206,
